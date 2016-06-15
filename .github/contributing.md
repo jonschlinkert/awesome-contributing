@@ -8,7 +8,7 @@ Creating an issue is the simplest form of contributing to a project. But there a
 
 - Fixing typos or grammar
 - Suggesting a section or topic for the guide
-- Writing a section
+- Adding an awesome `contributing.md` to an existing section
 
 **Other ways to support this project**
 
