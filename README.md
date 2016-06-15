@@ -3,7 +3,7 @@
 > A curated list of awesome guides to contributing
 
 - [Contributing advice](#contributing-advice)
-- [contributing.md guides](#contributing-md-guides)
+- [contributing.md guides](#contributingmd-guides)
 
 ## Contributing advice
 
