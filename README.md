@@ -2,12 +2,22 @@
 
 > A curated list of awesome guides to open-source contributing
 
+## Table of contents
+
 * [Contributing advice](#contributing-advice)
 * [contributing.md guides](#contributingmd-guides)
   - [Brass tacks](#brass-tacks)
   - [Eloquent](#eloquent)
   - [Funny](#funny)
   - [Comprehensive](#comprehensive)
+
+<br>
+<br>
+<br>
+![sep](https://cloud.githubusercontent.com/assets/383994/16066718/b86f3e74-3283-11e6-8ba5-a18c8b79339a.png)
+<br>
+<br>
+<br>
 
 ## Contributing advice
 
