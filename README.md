@@ -12,6 +12,7 @@ This guide is brand new, PRs welcome!
   - [Eloquent](#eloquent)
   - [Funny](#funny)
   - [Comprehensive](#comprehensive)
+  - [Transcendant](#transcendent)
 * [About](#about)
 
 <br>
@@ -56,6 +57,13 @@ These guides aren't necessarily _long_, but they have all of the elements you'd 
 - [atom/atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 - [ember/ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md): 
 - [facebook/react](https://github.com/facebook/react/blob/master/CONTRIBUTING.md): 
+
+### Transcendent
+
+These guides are so good, they'll make you depressed about your own writing.
+
+- [twbs/bootstrap](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md): 
+
 
 <br>
 <br>
