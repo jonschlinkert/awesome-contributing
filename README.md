@@ -2,6 +2,8 @@
 
 > A curated list of awesome guides to open-source contributing
 
+This guide is brand new, PRs welcome!
+
 ## Table of contents
 
 * [Contributing advice](#contributing-advice)
@@ -10,6 +12,7 @@
   - [Eloquent](#eloquent)
   - [Funny](#funny)
   - [Comprehensive](#comprehensive)
+* [About](#about)
 
 <br>
 <br>
@@ -61,6 +64,18 @@ These guides aren't necessarily _long_, but they have all of the elements you'd 
 <br>
 <br>
 <br>
+
+## About
+
+### Contributors
+
+If you contribute to this project, thank you! Please add your name to the following list:
+
+[your name here!]
+
+### Contributing to this project
+
+Please visit the [contributing guide](.github/contributing.md) to learn more about contributing to this project.
 
 ### Author
 
