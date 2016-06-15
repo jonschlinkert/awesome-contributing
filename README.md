@@ -1,6 +1,6 @@
 # Awesome contributing guides
 
-> A curated list of awesome guides to contributing
+> A curated list of awesome guides to open-source contributing
 
 * [Contributing advice](#contributing-advice)
 * [contributing.md guides](#contributingmd-guides)
@@ -12,6 +12,14 @@
 ## Contributing advice
 
 - [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing)
+
+<br>
+<br>
+<br>
+![sep](https://cloud.githubusercontent.com/assets/383994/16066718/b86f3e74-3283-11e6-8ba5-a18c8b79339a.png)
+<br>
+<br>
+<br>
 
 ## contributing.md guides
 
@@ -36,6 +44,13 @@ These guides aren't necessarily _long_, but they have all of the elements you'd 
 - [ember/ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md): 
 - [facebook/react](https://github.com/facebook/react/blob/master/CONTRIBUTING.md): 
 
+<br>
+<br>
+<br>
+![sep](https://cloud.githubusercontent.com/assets/383994/16066718/b86f3e74-3283-11e6-8ba5-a18c8b79339a.png)
+<br>
+<br>
+<br>
 
 ### Author
 
